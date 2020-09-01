@@ -179,10 +179,8 @@ https://upoint-dv.alight.com/specmgmt/#/
 
 				}
 
-			}
-					
+				}	
 	 ```	
-	 
 	 - Response Header
 	  ```
 			    NA
